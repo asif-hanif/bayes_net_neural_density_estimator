@@ -8,4 +8,8 @@ Input:
 2) A dictionary containing structure of Bayesian network
 
 
+Output:
+A trained neural network/s that output parameters of $f(X_i | pa(X_i))$
+
+
 
