@@ -9,7 +9,7 @@ Input:
 
 
 Output:
-A trained neural network/s that output parameters of $f(X_i | pa(X_i))$
+A trained neural network/s that output parameters of $`f(X_i | pa(X_i))`$
 
 
 
