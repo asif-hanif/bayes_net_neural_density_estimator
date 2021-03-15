@@ -3,5 +3,9 @@ This repository contains a neural-network based density estimator for a continuo
 
 This tool assumes all nodes in Bayesian network are continious and structure of Bayesian network is known.
 
+Input: 
+1) A dataframe in which each named column contains data of corresponding node.
+2) A dictionary containing structure of Bayesian network
+
 
 
