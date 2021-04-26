@@ -9,7 +9,7 @@ Input:
 
 
 Output:
-A trained neural network/s that output parameters of $`f(X_i | pa(X_i))`$
+Each trained neural network will output parameters of conditional PDF of node X_i i.e. $`f(X_i | pa(X_i))`$
 
 
 
