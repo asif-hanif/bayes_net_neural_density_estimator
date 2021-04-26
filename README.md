@@ -12,5 +12,6 @@ Output: <br>
 Each trained neural network will output parameters of conditional PDF of node X_i i.e. $`f(X_i | pa(X_i))`$
 
 
-
-![](images/separate_nn.png)
+<p align="center">
+![Neural network for learning conditional PDF](images/separate_nn.png)
+</p>
