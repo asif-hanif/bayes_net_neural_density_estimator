@@ -28,5 +28,5 @@ Each trained neural network will output parameters of conditional PDF of a node 
   <figcaption>Fig.2 - Mixture-of-logistics (MoL) is used for conditional PDF of each child node.</figcaption>
   </figure>
 </p>
-This math is inline $`a^2+b^2=c^2`$.
+
 
