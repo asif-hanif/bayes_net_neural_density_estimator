@@ -22,7 +22,7 @@ Each trained neural network will output parameters of conditional PDF of a node 
 
 <p align="center">
   <figure>
-  <img src="images/mix_logis_pdf2.pdf">
+  <img src="images/mix_logis_loss_bins_colors.png">
   <figcaption>Fig.1 - Neural network for learning conditional PDF of a child node.</figcaption>
   </figure>
 </p>
