@@ -13,5 +13,8 @@ Each trained neural network will output parameters of conditional PDF of node X_
 
 
 <p align="center">
-![Neural network for learning conditional PDF](images/separate_nn.png)
+  <figure>
+  <img src="images/separate_nn.png">
+  <figcaption>Fig.1 - Neural network for learning conditional PDF of a child node.</figcaption>
+  </figure>
 </p>
