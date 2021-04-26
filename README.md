@@ -13,4 +13,4 @@ Each trained neural network will output parameters of conditional PDF of node X_
 
 
 
-![](./separate_nn.png)
+![](images/separate_nn.png)
